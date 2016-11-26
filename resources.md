@@ -6,7 +6,9 @@
 * Neural Networks and Deep Learning (free online book by Michael Nielsen) (About theory but not so much math, some Python code & easy to understand)
 	* http://neuralnetworksanddeeplearning.com/
 * CS224d: Deep Learning for Natural Language Processing by Richard Socher from Stanford Univ
-	* http://cs224d.stanford.edu/index.html
+	* http://cs224d.stanford.edu/index.html	
+* CS231n: Convolutional Neural Networks for Visual Recognition 
+	* http://cs231n.stanford.edu/
 
 # Practice
 * A Step by Step Backpropagation Example by Matt Mazur
