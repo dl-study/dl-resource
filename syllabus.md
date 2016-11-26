@@ -1,5 +1,5 @@
 # Theory
-* Study the course "Neural Networks for Machine Learning" by Prof. Hinton on Coursera
+* Study the course **Neural Networks for Machine Learning** by Prof. Hinton on Coursera
   * https://www.coursera.org/learn/neural-networks
 * The real schedule may be different from that of the course. Particularly, we may study the contents of 2 or 3 weeks from the course in 1 week.
 
@@ -7,7 +7,7 @@
 1. Basically, use Keras & Theano to solve the exercises & quizzes from Prof. Hinton course
 2. Refer to source code from DeepLearning.net Tutorial
   * http://deeplearning.net/tutorial/contents.html
-3. Practice with "Deep Learning With Python" book by Jason Brownlee from machinelearningmastery (TensorFlow and Theano with Keras)
+3. Practice with **Deep Learning With Python** book by Jason Brownlee from machinelearningmastery (TensorFlow and Theano with Keras)
 	* https://machinelearningmastery.com/deep-learning-with-python/
 
 # Syllabus & Schedule
