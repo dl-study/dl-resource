@@ -12,9 +12,9 @@
 
 # Syllabus & Schedule
 1. Week1
-  * [Introduction (W1)](https://www.coursera.org/learn/neural-networks/home/week/1)
-  * [The Perceptron learning procedure (W2)](https://www.coursera.org/learn/neural-networks/home/week/2)
-  * [The backpropagation learning proccedure (W3)](https://www.coursera.org/learn/neural-networks/home/week/3)
+  * [Introduction (W1)](https://www.coursera.org/learn/neural-networks/home/week/1) (Binh)
+  * [The Perceptron learning procedure (W2)](https://www.coursera.org/learn/neural-networks/home/week/2) (Binh)
+  * [The backpropagation learning proccedure (W3)](https://www.coursera.org/learn/neural-networks/home/week/3) (Dat)
 2. Week2
   * [Learning feature vectors for words (W4)](https://www.coursera.org/learn/neural-networks/home/week/4)
   * [Object recognition with neural nets (W5)](https://www.coursera.org/learn/neural-networks/home/week/5)
