@@ -1,15 +1,16 @@
 # Theory
-* Course **Neural Networks for Machine Learning** by Prof. Hinton on Coursera
+1. Course **Neural Networks for Machine Learning**, by Prof. Hinton on Coursera
   * https://www.coursera.org/learn/neural-networks
-* Deep Learning Tutorial by Stanford Univ
+2. **Deep Learning**, book by Ian Goodfellow and Prof. Yoshua Bengio and Aaron Courville
+  * http://www.deeplearningbook.org/
+3. Deep Learning Tutorial by Stanford Univ
 	* http://ufldl.stanford.edu/tutorial/
-* Deep Learning book by Ian Goodfellow and Yoshua Bengio and Aaron Courville
-	* http://www.deeplearningbook.org/
-* Neural Networks and Deep Learning (free online book by Michael Nielsen) (About theory but not so much math, some Python code & easy to understand)
+4. **Neural Networks and Deep Learning**, free online book by Michael Nielsen
 	* http://neuralnetworksanddeeplearning.com/
-* CS224d: Deep Learning for Natural Language Processing by Richard Socher from Stanford Univ
+  * About theory but not so much math, some Python code & easy to understand.
+* **CS224d: Deep Learning for Natural Language Processing**, by Richard Socher from Stanford Univ
 	* http://cs224d.stanford.edu/index.html
-* CS231n: Convolutional Neural Networks for Visual Recognition
+* **CS231n: Convolutional Neural Networks for Visual Recognition**, by Prof. Fei-Fei Li, Justin Johnson & Andrej Karpathy from Stanford Univ
 	* http://cs231n.stanford.edu/
 
 # Practice
@@ -74,15 +75,19 @@
   * http://image-net.org/
 
 # People
-1. Geoffrey Hinton
-2. Yann LeCun
-3. Bengio Yoshua
-4. Andrew Ng
+* Geoffrey Hinton
+* [Yann LeCun](http://yann.lecun.com/)
+* [Bengio Yoshua](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html)
+* [Juergen Schmidhuber](http://people.idsia.ch/~juergen/)
+* Andrew Ng
   * Stanford Prof, Chief Scientist at Baidu
-5. [Richard Rocher](http://www.socher.org)
+* Ilya Sutskever
+* [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/)
+* Alex Krishevsky
+* Ian Goodfellow
+* [Richard Rocher](http://www.socher.org)
   * DeepLearning & NLP, Chief Scientist at Salesforce & Instructor at Stanford
-6. [Ruslan Salakhutdinov](http://www.cs.cmu.edu/~rsalakhu/)
-7. [Quoc V. Le](http://research.google.com/pubs/QuocLe.html)
+* [Quoc V. Le](http://research.google.com/pubs/QuocLe.html)
   * Google Research
 
 # References & other resources:

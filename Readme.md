@@ -1,1 +1,3 @@
-To manage resources, memos, plans... to study Deep Learning
+To manage resources, syllabus and plans to study Deep Learning.
+* [Resources](resources.md)
+* [Syllabus](syllabus.md)
