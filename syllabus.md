@@ -17,6 +17,9 @@
   * [The backpropagation learning proccedure (W3)](https://www.coursera.org/learn/neural-networks/home/week/3) (Dat)
 2. Week2
   * [Learning feature vectors for words (W4)](https://www.coursera.org/learn/neural-networks/home/week/4)
+  	* Concept & idea of word-embedding
+	* How to design a Neural Network to learn Word Vector
+	* How to learn the network from a corpus
   * [Object recognition with neural nets (W5)](https://www.coursera.org/learn/neural-networks/home/week/5)
   * [Optimization: How to make the learning go faster (W6)](https://www.coursera.org/learn/neural-networks/home/week/6)
 3. Week3
