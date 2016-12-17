@@ -4,6 +4,10 @@
 2. Back propagation
 3. Feedforward Neural Network
 
+#### Practice:
+Build a NN to regognize handwriting digit.
+Dataset: MNIST
+
 ## NN for NLP (Week 2, 3)
 1. Word Embedding
 2. Recurrent Neural Network (RNN)
