@@ -5,8 +5,7 @@
 3. Feedforward Neural Network
 
 #### Practice:
-Build a NN to regognize handwriting digit.
-Dataset: MNIST
+Build a NN to regognize handwriting digit (MNIST). (https://www.kaggle.com/c/digit-recognizer). Write source code from scratch or use libraries such as Theano, Tensorflow and Keras.
 
 ## NN for NLP (Week 2, 3)
 1. Word Embedding
