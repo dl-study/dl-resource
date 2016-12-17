@@ -1,10 +1,10 @@
 
-## Basic:
+## Basic (Week 1):
 1. Perception, Sigmoid neuron, ReLU
 2. Back propagation
 3. Feedforward Neural Network
 
-## NN for NLP
+## NN for NLP (Week 2, 3)
 1. Word Embedding
 2. Recurrent Neural Network (RNN)
 3. Long Short-Term Memory (LSTM)
