@@ -28,7 +28,7 @@
 	* Full Day Live Streams:
 		* Day 1: https://youtu.be/eyovmAtoUx0
 		* Day 2: https://youtu.be/9dXiAecyJrY
-8. Deep Learning tutorial by Quoc Le
+8. **Deep Learning tutorial by Quoc Le
 	1. https://cs.stanford.edu/~quocle/tutorial1.pdf
 	2. http://ai.stanford.edu/~quocle/tutorial2.pdf
 
@@ -117,3 +117,6 @@
 ## Articles
 1. My Top 9 Favorite Python Deep Learning Libraries
 	* http://www.pyimagesearch.com/2016/06/27/my-top-9-favorite-python-deep-learning-libraries/
+	
+## Word Embedding related articles
+1. https://arxiv.org/pdf/1411.2738v4.pdf
