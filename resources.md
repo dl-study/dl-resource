@@ -119,4 +119,4 @@
 	* http://www.pyimagesearch.com/2016/06/27/my-top-9-favorite-python-deep-learning-libraries/
 	
 ## Word Embedding related articles
-1. https://arxiv.org/pdf/1411.2738v4.pdf
+1. word2vec Parameter Learning Explained (https://arxiv.org/pdf/1411.2738v4.pdf)
