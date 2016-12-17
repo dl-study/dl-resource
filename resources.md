@@ -86,8 +86,8 @@
 	* http://msr-waypoint.com/en-us/um/people/gzweig/Pubs/NAACL2013Regularities.pdf
 
 ### Other papers to study Word2Vec
-1. word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method
-	* https://arxiv.org/pdf/1402.3722.pdf
+1. word2vec Parameter Learning Explained
+	* https://arxiv.org/pdf/1411.2738v4.pdf
 2. Neural Word Embedding as Implicit Matrix Factorization
 	* https://levyomer.files.wordpress.com/2014/09/neural-word-embeddings-as-implicit-matrix-factorization.pdf
 3. Statistical Language Models Based on Neural Networks, Mikolov PhD thesis
@@ -149,6 +149,3 @@
 ## Articles
 1. My Top 9 Favorite Python Deep Learning Libraries
 	* http://www.pyimagesearch.com/2016/06/27/my-top-9-favorite-python-deep-learning-libraries/
-
-## Word Embedding related articles
-1. word2vec Parameter Learning Explained (https://arxiv.org/pdf/1411.2738v4.pdf)
