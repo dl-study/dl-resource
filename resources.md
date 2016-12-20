@@ -28,9 +28,11 @@
 	* Full Day Live Streams:
 		* Day 1: https://youtu.be/eyovmAtoUx0
 		* Day 2: https://youtu.be/9dXiAecyJrY
-8. **Deep Learning tutorial by Quoc Le
+8. **Deep Learning tutorial by Quoc Le**
 	1. https://cs.stanford.edu/~quocle/tutorial1.pdf
 	2. http://ai.stanford.edu/~quocle/tutorial2.pdf
+9. **Deep Learning tutorial by Truyen Tran**
+	http://prada-research.net/~truyen/ai16-tute.html
 
 # Practice
 * A Step by Step Backpropagation Example by Matt Mazur
