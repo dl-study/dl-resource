@@ -98,6 +98,8 @@
 	* http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf
 5. word2vec Parameter Learning Explained
 	* https://arxiv.org/pdf/1411.2738v4.pdf
+6. Deep Learning for NLP (video lecture of Richard Socher)
+	* https://www.youtube.com/playlist?list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG
 
 ### GloVe
 1. GloVe: Global Vectors for Word Representation
