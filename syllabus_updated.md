@@ -11,6 +11,7 @@ Build a NN to regognize handwriting digit (MNIST). (https://www.kaggle.com/c/dig
 1. Word Embedding
 2. Recurrent Neural Network (RNN)
 3. Long Short-Term Memory (LSTM)
+4. How to apply word embedding in applications (e.g., text classification)
 
 ### Details
   1. Concept of word-embedding
