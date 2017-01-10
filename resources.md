@@ -93,7 +93,7 @@
 	* http://msr-waypoint.com/en-us/um/people/gzweig/Pubs/NAACL2013Regularities.pdf
 
 ### Other papers to study Word2Vec
-1. word2vec Parameter Learning Explained
+1. word2vec Parameter Learning Explained, by Xin Rong from UMich
 	* https://arxiv.org/pdf/1411.2738v4.pdf
 2. Neural Word Embedding as Implicit Matrix Factorization
 	* https://levyomer.files.wordpress.com/2014/09/neural-word-embeddings-as-implicit-matrix-factorization.pdf
@@ -101,9 +101,7 @@
 	* http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf
 4. Recurrent neural network based language model
 	* http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf
-5. word2vec Parameter Learning Explained
-	* https://arxiv.org/pdf/1411.2738v4.pdf
-6. Deep Learning for NLP (video lecture of Richard Socher)
+5. Deep Learning for NLP (video lecture of Richard Socher)
 	* https://www.youtube.com/playlist?list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG
 
 ### GloVe
