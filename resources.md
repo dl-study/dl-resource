@@ -33,6 +33,11 @@
 	2. http://ai.stanford.edu/~quocle/tutorial2.pdf
 9. **Deep Learning tutorial by [Truyen Tran](http://prada-research.net/~truyen/)**
 	* http://prada-research.net/~truyen/ai16-tute.html
+10. UCL course on Reinforment Learning by David Silver (main programmer of Go team at DeepMind)
+  * http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+11. Hacker's guide to neural networks, Andrej Karpathy blog
+  * http://karpathy.github.io/neuralnets/
+
 
 # Practice
 * A Step by Step Backpropagation Example by Matt Mazur
@@ -105,6 +110,23 @@
 1. GloVe: Global Vectors for Word Representation
 	* http://nlp.stanford.edu/pubs/glove.pdf
 
+## Recurrent Neural Net (RNN)
+1. The Unreasonable Effectiveness of Recurrent Neural Networks
+  * http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+2. RECURRENT NEURAL NETWORKS & LSTM TUTORIAL, from WILDML
+  * http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
+3. RNNS IN TENSORFLOW, A PRACTICAL GUIDE AND UNDOCUMENTED FEATURES, from WILDML
+  * http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/
+
+### Long-Short Term Memory (LSTM)
+1. Understanding LSTM Networks, by Christopher Olah (Aug 2015)
+  * http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+2. LSTM implementation explained, by Adam Paszke (Aug 2015)
+  * https://apaszke.github.io/lstm-explained.html
+3. RECURRENT NEURAL NETWORK TUTORIAL, PART 4 – IMPLEMENTING A GRU/LSTM RNN WITH PYTHON AND THEANO, from WILDML
+  * http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/
+
+
 # Libraries
 ## Low level
 1. TensorFlow
@@ -149,6 +171,8 @@
 ## Useful sites
 1. deeplearning.net
   * http://deeplearning.net/
+2. WILDML: AI, Deep Learning, NLP blog
+  * http://www.wildml.com
 
 ## Articles
 1. My Top 9 Favorite Python Deep Learning Libraries
