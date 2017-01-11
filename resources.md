@@ -123,7 +123,8 @@
   * https://apaszke.github.io/lstm-explained.html
 3. RECURRENT NEURAL NETWORK TUTORIAL, PART 4 – IMPLEMENTING A GRU/LSTM RNN WITH PYTHON AND THEANO, from WILDML
   * http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/
-
+4. LONG SHORT-TERM MEMORY, Neural Computation 9(8), 1997, original paper on LSTM by Sepp Hochreiter & Jurgen Schmidhuber
+  * http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf
 
 # Libraries
 ## Low level
