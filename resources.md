@@ -179,3 +179,12 @@
 ## Articles
 1. My Top 9 Favorite Python Deep Learning Libraries
 	* http://www.pyimagesearch.com/2016/06/27/my-top-9-favorite-python-deep-learning-libraries/
+	
+## Document representation using Word-embedding
+1. **LDA2Vec**–flexible & interpretable NLP models
+  * _Project URL_: http://lda2vec.readthedocs.io/en/latest/#
+  * _Slide_: https://github.com/dl-study/dl-resource/blob/master/files/lda2vec.pdf
+2. **Doc2Vec**
+  * _Original paper (ICML2014)_: https://arxiv.org/pdf/1405.4053v2.pdf
+  * _Tutorial in Gensim_: https://rare-technologies.com/doc2vec-tutorial/
+  * _Gensim Jupyter Notebook_: https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-IMDB.ipynb
