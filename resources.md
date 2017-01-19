@@ -35,8 +35,11 @@
 	* http://prada-research.net/~truyen/ai16-tute.html
 10. UCL course on Reinforment Learning by David Silver (main programmer of Go team at DeepMind)
   * http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
-11. Hacker's guide to neural networks, Andrej Karpathy blog
+11. **Hacker's guide to neural networks**, Andrej Karpathy blog
   * http://karpathy.github.io/neuralnets/
+12. **LDA2Vec**–flexible & interpretable NLP models
+  * http://lda2vec.readthedocs.io/en/latest/#
+  * 
 
 
 # Practice
