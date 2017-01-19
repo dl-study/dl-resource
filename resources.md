@@ -38,8 +38,8 @@
 11. **Hacker's guide to neural networks**, Andrej Karpathy blog
   * http://karpathy.github.io/neuralnets/
 12. **LDA2Vec**–flexible & interpretable NLP models
-  * http://lda2vec.readthedocs.io/en/latest/#
-  * 
+  * _Project URL_: http://lda2vec.readthedocs.io/en/latest/#
+  * _Slide_: https://github.com/dl-study/dl-resource/blob/master/files/lda2vec.pdf
 
 
 # Practice
