@@ -110,6 +110,7 @@
 ### GloVe
 1. GloVe: Global Vectors for Word Representation
 	* http://nlp.stanford.edu/pubs/glove.pdf
+	* _Python source code_: http://www.foldl.me/2014/glove-python/
 
 ## Recurrent Neural Net (RNN)
 1. The Unreasonable Effectiveness of Recurrent Neural Networks
