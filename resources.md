@@ -120,16 +120,38 @@
   * http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
 3. RNNS IN TENSORFLOW, A PRACTICAL GUIDE AND UNDOCUMENTED FEATURES, from WILDML
   * http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/
+4. Backpropagation Through Time: What It Does and How to Do It, Proc. IEEE 1990, PAUL J. WERBOS
+  * http://deeplearning.cs.cmu.edu/pdfs/Werbos.backprop.pdf
 
 ### Long-Short Term Memory (LSTM)
 1. Understanding LSTM Networks, by Christopher Olah (Aug 2015)
   * http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+  * Just explain concept, no implementation.
+  * Very good visualization.
+
 2. LSTM implementation explained, by Adam Paszke (Aug 2015)
   * https://apaszke.github.io/lstm-explained.html
-3. RECURRENT NEURAL NETWORK TUTORIAL, PART 4 – IMPLEMENTING A GRU/LSTM RNN WITH PYTHON AND THEANO, from WILDML
+  * Easy to understand, sample code written by Lua with Torch framework
+
+3. RECURRENT NEURAL NETWORK TUTORIAL from WILDML (Python code)
+  * http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
+  * http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/
+    * Check out [this page](https://github.com/KnHuq/Dynamic-Tensorflow-Tutorial) for more TensorFlow sample code for RNN & LSTM
+  * http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/
+    * Read to [this document](https://github.com/go2carter/nn-learn/blob/master/grad-deriv-tex/rnn-grad-deriv.pdf) to understand more about the gradient calculation in RNN backprop
   * http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/
+
 4. LONG SHORT-TERM MEMORY, Neural Computation 9(8), 1997, original paper on LSTM by Sepp Hochreiter & Jurgen Schmidhuber
   * http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf
+
+## Parameter initialization
+1. Understanding the difficulty of training deep feedforward neural networks, Xavier Glorot & Yoshua Bengio, JMLR 2010
+  * http://jmlr.org/proceedings/papers/v9/glorot10a/glorot10a.pdf
+
+## Gradient checking
+1. Gradient checking and advanced optimization
+  * http://ufldl.stanford.edu/wiki/index.php/Gradient_checking_and_advanced_optimization
+
 
 # Libraries
 ## Low level
@@ -181,7 +203,7 @@
 ## Articles
 1. My Top 9 Favorite Python Deep Learning Libraries
 	* http://www.pyimagesearch.com/2016/06/27/my-top-9-favorite-python-deep-learning-libraries/
-	
+
 ## Document representation using Word-embedding
 1. **LDA2Vec**–flexible & interpretable NLP models
   * _Project URL_: http://lda2vec.readthedocs.io/en/latest/#
