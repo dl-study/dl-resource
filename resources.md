@@ -116,8 +116,12 @@
 ## Recurrent Neural Net (RNN)
 1. The Unreasonable Effectiveness of Recurrent Neural Networks
   * http://karpathy.github.io/2015/05/21/rnn-effectiveness/
-2. RECURRENT NEURAL NETWORKS & LSTM TUTORIAL, from WILDML
+2. RECURRENT NEURAL NETWORKS & LSTM TUTORIAL, from WILDML (Python code)
   * http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
+  * http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/
+    * Check out [this page](https://github.com/KnHuq/Dynamic-Tensorflow-Tutorial) for more TensorFlow sample code for RNN & LSTM
+  * http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/
+    * Read to [this document](https://github.com/go2carter/nn-learn/blob/master/grad-deriv-tex/rnn-grad-deriv.pdf) to understand more about the gradient calculation in RNN backprop
 3. RNNS IN TENSORFLOW, A PRACTICAL GUIDE AND UNDOCUMENTED FEATURES, from WILDML
   * http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/
 4. Backpropagation Through Time: What It Does and How to Do It, Proc. IEEE 1990, PAUL J. WERBOS
@@ -128,19 +132,11 @@
   * http://colah.github.io/posts/2015-08-Understanding-LSTMs/
   * Just explain concept, no implementation.
   * Very good visualization.
-
 2. LSTM implementation explained, by Adam Paszke (Aug 2015)
   * https://apaszke.github.io/lstm-explained.html
   * Easy to understand, sample code written by Lua with Torch framework
-
-3. RECURRENT NEURAL NETWORK TUTORIAL from WILDML (Python code)
-  * http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
-  * http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/
-    * Check out [this page](https://github.com/KnHuq/Dynamic-Tensorflow-Tutorial) for more TensorFlow sample code for RNN & LSTM
-  * http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/
-    * Read to [this document](https://github.com/go2carter/nn-learn/blob/master/grad-deriv-tex/rnn-grad-deriv.pdf) to understand more about the gradient calculation in RNN backprop
+3. RECURRENT NEURAL NETWORK TUTORIAL, PART 4 – IMPLEMENTING A GRU/LSTM RNN WITH PYTHON AND THEANO, from WILDML (Python code)
   * http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/
-
 4. LONG SHORT-TERM MEMORY, Neural Computation 9(8), 1997, original paper on LSTM by Sepp Hochreiter & Jurgen Schmidhuber
   * http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf
 
@@ -159,6 +155,7 @@
 2. Theano
 3. Caffe
 4. mxnet (Lightweight DL framework)
+5. PyTorch (based on Torch, supported by Facebook)
 
 ## High level
 1. Keras (wrapper for TensorFlow & Theano)
