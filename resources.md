@@ -40,6 +40,9 @@
 12. **LDA2Vec**–flexible & interpretable NLP models
   * _Project URL_: http://lda2vec.readthedocs.io/en/latest/#
   * _Slide_: https://github.com/dl-study/dl-resource/blob/master/files/lda2vec.pdf
+  
+13. Deep Learning course of Google on Udacity
+  * https://classroom.udacity.com/courses/ud730
 
 
 # Practice
