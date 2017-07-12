@@ -199,6 +199,7 @@
   * http://deeplearning.net/
 2. WILDML: AI, Deep Learning, NLP blog
   * http://www.wildml.com
+3. https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78
 
 ## Articles
 1. My Top 9 Favorite Python Deep Learning Libraries
