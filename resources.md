@@ -213,3 +213,6 @@
   * _Original paper (ICML2014)_: https://arxiv.org/pdf/1405.4053v2.pdf
   * _Tutorial in Gensim_: https://rare-technologies.com/doc2vec-tutorial/
   * _Gensim Jupyter Notebook_: https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-IMDB.ipynb
+  
+3. **Infrastructure for Deep Learning**
+  * https://blog.openai.com/infrastructure-for-deep-learning/
