@@ -43,7 +43,12 @@
   
 13. Deep Learning course of Google on Udacity
   * https://classroom.udacity.com/courses/ud730
-
+  
+14. **Oxford Deep NLP 2017 course**
+  * https://github.com/oxford-cs-deepnlp-2017/lectures
+  
+15. **Deep Reinforcement Learning**-Berkeley UC
+  * http://rll.berkeley.edu/deeprlcourse/
 
 # Practice
 * A Step by Step Backpropagation Example by Matt Mazur
