@@ -40,13 +40,13 @@
 12. **LDA2Vec**–flexible & interpretable NLP models
   * _Project URL_: http://lda2vec.readthedocs.io/en/latest/#
   * _Slide_: https://github.com/dl-study/dl-resource/blob/master/files/lda2vec.pdf
-  
+
 13. Deep Learning course of Google on Udacity
   * https://classroom.udacity.com/courses/ud730
-  
+
 14. **Oxford Deep NLP 2017 course**
   * https://github.com/oxford-cs-deepnlp-2017/lectures
-  
+
 15. **Deep Reinforcement Learning**-Berkeley UC
   * http://rll.berkeley.edu/deeprlcourse/
 
@@ -101,7 +101,7 @@
 2. Distributed Representations of Words and Phrases and their Compositionality
 	* https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
 3. Linguistic Regularities in Continuous Space Word Representations
-	* http://msr-waypoint.com/en-us/um/people/gzweig/Pubs/NAACL2013Regularities.pdf
+	* https://www.aclweb.org/anthology/N13-1090
 
 ### Other papers to study Word2Vec
 1. word2vec Parameter Learning Explained, by Xin Rong from UMich
@@ -218,6 +218,6 @@
   * _Original paper (ICML2014)_: https://arxiv.org/pdf/1405.4053v2.pdf
   * _Tutorial in Gensim_: https://rare-technologies.com/doc2vec-tutorial/
   * _Gensim Jupyter Notebook_: https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-IMDB.ipynb
-  
+
 3. **Infrastructure for Deep Learning**
   * https://blog.openai.com/infrastructure-for-deep-learning/
